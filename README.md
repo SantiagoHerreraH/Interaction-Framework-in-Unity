@@ -1,7 +1,4 @@
-# Unity Modular Journal System
 
-
-````markdown
 # Interaction Machine (Unity)
 
 An extensible **interaction state machine** for Unity that lets you chain **named interactions** over **one or many targets** with clear lifecycle hooks: **Start**, **Update**, **FixedUpdate**, and **End**. It supports automatic triggering from **2D physics** events, per-target sequencing, and clean teardown on disable/destroy.
